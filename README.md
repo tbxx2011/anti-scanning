@@ -1,8 +1,8 @@
 # anti-scanning
 
-##How to protect from port scanning and smurf attack in Linux Server by iptables
+## How to protect from port scanning and smurf attack in Linux Server by iptables
 
-###June 15, 2013 by Sharad Chhetri 20 Comments
+### June 15, 2013 by Sharad Chhetri 20 Comments
 
 In this post I will share the iptable script in which we will learn How to protect from port scanning and smurf attack in Linux Server.
 
