@@ -1,4 +1,3 @@
-# anti-scanning
 
 ## How to protect from port scanning and smurf attack in Linux Server by iptables
 
